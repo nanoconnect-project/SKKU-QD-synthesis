@@ -1,0 +1,4 @@
+batch_id,year_month,sample_type,substrate_id,qty_planned,qty_completed,sent_date,destination,status,notes
+SK-001,2026-01,R QD박막,KM-SUB-001,5,5,2026-01-28,KIMM,발송완료,EQE 12% 달성
+SK-002,2026-02,G QD박막,KM-SUB-003,5,3,,KIMM,제작중,2매 추가 제작 중
+SK-003,2026-03,B QD박막,,5,0,,,계획중,
